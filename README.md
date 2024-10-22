@@ -1,4 +1,4 @@
-# Cervical Cancer Risk Prediction
+# Early Detection of Cervical Cancer using Machine Learning Classifiers for Improved Diagnosis in Underserved Regions
 ## About the Project
 This project aims to predict the risk of cervical cancer using various machine learning models. The dataset includes features like age, number of pregnancies, smoking habits, and STD history. Techniques such as feature selection, hyperparameter tuning, and ensemble learning are applied to enhance the model's performance.
 
