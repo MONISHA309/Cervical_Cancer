@@ -16,7 +16,7 @@ This project aims to predict the risk of cervical cancer using various machine l
      - Boosting (AdaBoost, Gradient Boosting)
 
 ## Accuracy of the Model
-  Decision tree after sampling provides the highest accuracy as 456789
+  Decision tree after sampling provides the highest accuracy as 95.2%
 
 ## Reference
 For more insights refer to this paper: "Early Detection of Cervical Cancer using Machine Learning Classifiers for Improved Diagnosis in Underserved Regions"
